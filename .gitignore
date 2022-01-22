@@ -1,0 +1,6 @@
+# Intellij config directories
+.idea
+*.iml
+
+# Java build directories
+target
